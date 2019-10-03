@@ -2,3 +2,5 @@ CADASTRO ALUNO
 
 RA:
 NOME:
+TELEFONE:
+Email:
