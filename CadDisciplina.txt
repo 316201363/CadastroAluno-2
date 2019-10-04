@@ -1,4 +1,8 @@
 CADASTRO DISCIPLINA
 
-CÓDIGO:
-DISCIPLINA
+CÃ“DIGO:
+DISCIPLINA:
+Professor responsavel:
+Predio:
+Sala:
+Qtd Alunos:
